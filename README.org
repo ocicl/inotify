@@ -1,0 +1,10 @@
+* inotify
+
+FFI to inotify(7) for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/stassats/inotify.git   |
+| commit  | 8ad433f  |
+| systems | inotify |
+|---------+-------------------------------------------|
+
